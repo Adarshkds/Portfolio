@@ -103,7 +103,7 @@
 
   .moving-text {
       display: flex;
-      overflow-x: scroll;
+      /* overflow-x: scroll; */
       padding: 1rem 0;
 
       .box {
